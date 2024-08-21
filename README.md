@@ -1,5 +1,10 @@
 <h3 align="center">ESP32 WiFi Hijack</h3>
 
+<p align="center">
+  <img src="p1.png" alt="ESP32 WiFi Hijack Image 1" width="150" height="150"/>
+  <img src="p2.png" alt="ESP32 WiFi Hijack Image 2" width="150" height="150"/>
+</p>
+
 ## Overview
 <p align="left">
 The "ESP32 WiFi Hijack" project is a cybersecurity demonstration using an ESP32 microcontroller. The project creates a fake WiFi network named "Free Wifi airport," which redirects connected users to a custom login page that mimics an airport WiFi portal. The login page captures and stores the credentials (email and password) entered by the users. This project serves as an educational tool to highlight the potential security risks of connecting to unknown WiFi networks.
