@@ -100,7 +100,3 @@ The "ESP32 WiFi Hijack" project is a cybersecurity demonstration using an ESP32 
 This project is intended for educational purposes only. Unauthorized or malicious use of this project may be illegal. The author is not responsible for any misuse of this project.
 </p>
 
-## License
-<p align="left">
-This project is licensed under the MIT License. See the <a href="https://github.com/ByteWhiz/ESP32_WiFi_Hijack/blob/main/LICENSE">LICENSE</a> file for more information.
-</p>
